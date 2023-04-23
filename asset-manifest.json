@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Digital-Clock/static/css/main.6d4c52cd.css",
-    "main.js": "/Digital-Clock/static/js/main.2e0f7dac.js",
+    "main.js": "/Digital-Clock/static/js/main.ea392e00.js",
     "index.html": "/Digital-Clock/index.html",
     "main.6d4c52cd.css.map": "/Digital-Clock/static/css/main.6d4c52cd.css.map",
-    "main.2e0f7dac.js.map": "/Digital-Clock/static/js/main.2e0f7dac.js.map"
+    "main.ea392e00.js.map": "/Digital-Clock/static/js/main.ea392e00.js.map"
   },
   "entrypoints": [
     "static/css/main.6d4c52cd.css",
-    "static/js/main.2e0f7dac.js"
+    "static/js/main.ea392e00.js"
   ]
 }
